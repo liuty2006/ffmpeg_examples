@@ -1,4 +1,4 @@
-FFmpeg examples README
+FFmpeg examples README - test
 ----------------------
 
 Both following use cases rely on pkg-config and make, thus make sure
